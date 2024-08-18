@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 Reach me via my email address addopatrick46@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Despite my strong interest in video game, i never knew how to use a cheat code..laughs
 
 <!---
 PatrickAddo/PatrickAddo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
